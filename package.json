@@ -1,0 +1,62 @@
+{
+  "name": "agar-clone",
+  "version": "1.0.0",
+  "description": "A simple Agar.io clone",
+  "main": "server/server.js",
+  "scripts": {
+    "build": "gulp build",
+    "start": "gulp run",
+    "watch": "gulp watch",
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/huytd/agar.io-clone.git"
+  },
+  "author": "Huy Tran",
+  "license": "MIT",
+  "contributors": [
+    "abalabahaha <hi@abal.moe> (https://github.com/abalabahaha)",
+    "Ariamiro <dossantosgusmaosavio@gmail.com> (https://github.com/Ariamiro)",
+    "Bjarne Oeverli <bjarne.oeverli@gmail.com> (https://github.com/bjarneo)",
+    "Chris Morgan <chris.j.r.morgan@gmail.com> (https://github.com/drpotato)",
+    "Damian Dlugosz <bigfootdd@gmail.com> (https://github.com/bigfoot90)",
+    "Dan Prince <dan@astrealdynamics.co.uk> (https://github.com/danprince)",
+    "Igor Antun <igorantunc@hotmail.com> (https://github.com/IgorAntun)",
+    "Juha Tauriainen <juha@bin.fi> (https://github.com/JuhQ)",
+    "Keith Groves <Keithalgroves@gmail.com> (https://github.com/buskcoin)",
+    "Kostas Bariotis <konmpar@gmail.com> (https://github.com/kbariotis)",
+    "Madara Uchiha <me@madara.ninja> (https://github.com/MadaraUchiha)",
+    "Nguyen Huu Thanh <giongto35@yahoo.com> (https://github.com/giongto35)",
+    "PET Computação UFPR <pet@inf.ufpr.br> (http://pet.inf.ufpr.br)",
+    "Saren Currie <saren@sarencurrie.com> (https://github.com/SarenCurrie)",
+    "VILLERS Mickaël <mickael.villers@epitech.eu> (https://github.com/villers)",
+    "wb9688 <wbertrums@gmail.com> (https://github.com/wb9688)"
+  ],
+  "dependencies": {
+    "axios": "^0.21.1",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.2.2",
+    "babel-preset-env": "^1.7.0",
+    "chai": "^4.3.4",
+    "express": "^4.17.1",
+    "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0",
+    "gulp-jshint": "^2.1.0",
+    "gulp-mocha": "^8.0.0",
+    "gulp-nodemon": "^2.5.0",
+    "gulp-todo": "^7.1.1",
+    "gulp-uglify": "^3.0.2",
+    "gulp-util": "^3.0.8",
+    "jshint": "^2.12.0",
+    "mocha": "^8.4.0",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.7",
+    "sat": "^0.9.0",
+    "simple-quadtree": "^0.1.3",
+    "socket.io": "^1.7.4",
+    "socket.io-client": "^1.7.4",
+    "webpack": "^5.37.1",
+    "webpack-stream": "^6.1.2"
+  }
+}
