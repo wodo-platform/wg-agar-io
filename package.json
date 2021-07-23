@@ -34,6 +34,7 @@
     "wb9688 <wbertrums@gmail.com> (https://github.com/wb9688)"
   ],
   "dependencies": {
+    "@babel/core": "^7.14.8",
     "axios": "^0.21.1",
     "babel-core": "^6.26.3",
     "babel-loader": "^8.2.2",
