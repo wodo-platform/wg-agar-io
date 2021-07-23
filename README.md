@@ -1,7 +1,7 @@
 Agar.io Clone
 =============
 
-This is customoized version of Agar.io in the wodo gaming. The repo name is wodogaming int gitlabs
+This is customoized version of Agar.io in the wodo gaming. The repo name is wodogame in gitlabs
 
 **CONTRIBUTOR WANTED: I'm really sorry for not have enough time to maintain this project. I'm looking for contributors who willing to keep this project going. If you feel happy to join. Please contact me via my Twitter: @huydotnet. Thank you so much!**
 
