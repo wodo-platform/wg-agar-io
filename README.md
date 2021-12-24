@@ -1,7 +1,55 @@
-Agar.io Clone
-=============
+<p align="center">
+  <a href="https://wodo.io/" target="blank"><img src="https://github.com/wodo-platform/wg-web-ui/blob/master/app/img/_src/branding/logo_purple.png" width="320" alt="Wodo Platform" /></a>
+</p>
 
-This is customoized version of Agar.io in the wodo gaming. The repo name is wodogame in gitlabs
+
+<h2> Wodo Agar.io Implementation</h2>
+
+<div align="center">
+  <h4>
+    <a href="https://wodo.io/">
+      Website
+    </a>
+    <span> | </span>
+    <a href="#">
+      Product Docs
+    </a>
+    <span> | </span>
+    <a href="#">
+      Architecture Docs
+    </a>
+    <span> | </span>
+    <!-- <a href="#"> -->
+    <!--   CLI -->
+    <!-- </a> -->
+    <!-- <span> | </span> -->
+    <a href="#/CONTRIBUTING.md">
+      Contributing
+    </a>
+    <span> | </span>
+    <a href="https://twitter.com/wodoio">
+      Twitter
+    </a>
+    <span> | </span>
+    <a href="https://t.me/wodoio">
+      Telegram
+    </a>
+    <span> | </span>
+    <a href="https://discord.gg/fbyns8Egpb">
+      Discourd
+    </a>
+    <span> | </span>
+    <a href="https://wodoio.medium.com/">
+      Medium
+    </a>
+    <span> | </span>
+    <a href="https://www.reddit.com/r/wodoio">
+      Reddit
+    </a>
+  </h4>
+</div>
+
+This is customoized version of Agar.io in the wodo gaming. It is enriched with blockchain and NFT capabilities through the wodo gaming platform APIs
 
 **CONTRIBUTOR WANTED: I'm really sorry for not have enough time to maintain this project. I'm looking for contributors who willing to keep this project going. If you feel happy to join. Please contact me via my Twitter: @huydotnet. Thank you so much!**
 

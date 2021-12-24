@@ -27,7 +27,7 @@ function startGame(type) {
         userId = 1;
     } else if (global.playerName == "test") {
         userId = 2;
-    } else if (global.playerName == "serhat") {
+    } else if (global.playerName == "aaaa") {
         userId = 3;
     } else if (global.playerName == "bekir") {
         userId = 4;
